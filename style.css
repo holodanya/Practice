@@ -15,7 +15,7 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 40px;
     margin-bottom: 10px;
-    margin-top: 100px;
+    margin-top: 10px;
 }
 
 .text {
@@ -26,17 +26,11 @@
   }
 
 .hyperlink {
-    font-weight: bold;
-    font-size: 44px;
-    text-decoration: none;
-    margin-top: 150px;
-    display: block;
-}
-
-.btn {
-  border: none;
-  background: none;
-  cursor: pointer;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 44px;
+  text-decoration: none;
+  display: block;
 }
 
 .btnimg {
